@@ -1,0 +1,178 @@
+{
+    
+    "backgroundColor": "#aaa",
+    "nestedListHover": "background: #666;",
+    "nestedListFontColorHover" : "color: #fff;",
+    "nestedListFontColor" : "color: #000;",
+    "backgroundGradient" : "background: #6c6e74; background: -moz-linear-gradient(top,  #6c6e74 0%, #4b4d51 100%);  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6c6e74), color-stop(100%,#4b4d51)); background: -webkit-linear-gradient(top,  #6c6e74 0%,#4b4d51 100%); background: -o-linear-gradient(top,  #6c6e74 0%,#4b4d51 100%); background: -ms-linear-gradient(top,  #6c6e74 0%,#4b4d51 100%); background: linear-gradient(top,  #6c6e74 0%,#4b4d51 100%);",
+    "backgroundGradientHover" : "background: #a5cd4e; background: -moz-linear-gradient(top,  #a5cd4e 0%, #6b8f1a 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5cd4e), color-stop(100%,#6b8f1a)); background: -webkit-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);background: -o-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%); background: -ms-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%); background: linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);",
+    "itemHeaderFontColor" : "color: #ddd;",
+    "nestedListBorderColor" : "border-left: 5px solid #a5cd4e; border-right: 5px solid #a5cd4e;",
+    "itemHeaderBorderColor" : "border: 1px solid #000;",
+    "itemHeaderBorderColorHover" : "border: 1px solid green;",
+       
+       
+    "Find Me":
+        {
+          "innerItem":
+                [
+                {
+                    "item":"LinkedIn",
+                    "link":"www.linkedin.com/pub/kelsey-stclair/91/56/34/"
+                },
+                {
+                    "item":"DeviantART",
+                    "link":"http://www.cherryblossom-okami.deviantart.com/"
+                },
+                {
+                    "item":"Facebook",
+                    "link":"https://www.facebook.com/kelsey.stclaire"
+                }]
+        },
+    
+    "Google":
+        {
+         "innerItem":
+                [{
+                    "item":"Google",
+                    "link":"http://www.google.com/"
+                }]
+        },
+       
+    "Cats":
+        {
+           "innerItem":
+                [{
+                    "item":"Calico",
+                    "link":"http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2012/09/face-paw.jpg"
+                },
+                {
+                    "item":"Tabby",
+                    "link":"http://files.dogster.com/pix/articles/46b4492ab3d5e1c1b9014318a82f659f_1302202044.jpg"
+                },
+                {
+                    "item":"Tabby",
+                    "link":"http://files.dogster.com/pix/articles/46b4492ab3d5e1c1b9014318a82f659f_1302202044.jpg"
+                },
+                {
+                    "item":"Egyptian Mau",
+                    "link":"http://41.media.tumblr.com/06dd8000640d2ccd0647ce27e15de791/tumblr_nbe4nj8q4R1r0bqbdo1_1280.jpg"
+                },
+                 {
+                    "item":"Munchkin",
+                    "link":"https://collegecandy.files.wordpress.com/2013/09/munchkin1.jpg?w=462&h=288"
+                },
+                {
+                    "item":"Siamese",
+                    "link":"http://purrfectcatbreeds.com/wp-content/uploads/2014/06/siamese-more1.jpg"
+                },
+                {
+                    "item":"Persian",
+                    "link":"http://www.catloversdiary.com/wp-content/uploads/2012/11/Persian_Cat.jpg"
+                },
+                {
+                    "item":"Russian Blue",
+                    "link":"http://www.hdwallpaperscool.com/wp-content/uploads/2013/12/russian-blue-cats-hd-wallpapers-new-beautiful-images-of-Russian-Blue-Cat-desktop-widescreen.jpg"
+                },
+                {
+                    "item":"Sphynx",
+                    "link":"http://purrfectcatbreeds.com/wp-content/uploads/2014/06/sphynx-cat1.jpg"
+                },
+                {
+                    "item":"Grumpy",
+                    "link":"http://www.hollywoodreporter.com/sites/default/files/imagecache/modal_800/2014/09/too_good_for_grumpy_cat.jpg"
+                }]
+        },
+        
+        "Snow Leopards":
+        {
+         "innerItem":
+                [{
+                    "item":"Wiki page",
+                    "link":"http://en.wikipedia.org/wiki/Snow_leopard"
+                },
+                {
+                    "item":"Save the Snow Leopards",
+                    "link":"http://www.snowleopard.org/"
+                }]
+        },
+        
+        "Cool Web Resources":
+        {
+         "innerItem":
+                [{
+                    "item":"Font Awesome",
+                    "link":"http://fortawesome.github.io/Font-Awesome/"
+                },
+                {
+                    "item":"Font Squirrel",
+                    "link":"http://www.fontsquirrel.com/"
+                },
+                {
+                    "item":"Cloud 9",
+                    "link":"http://www.c9.io/"
+                }]
+        },
+        
+        "Shop Till You Drop":
+        {
+         "innerItem":
+                [{
+                    "item":"eBay",
+                    "link":"http://www.ebay.com/"
+                },
+                {
+                    "item":"Amazon",
+                    "link":"http://www.amazon.com/"
+                },
+                {
+                    "item":"Etsy",
+                    "link":"http://www.etsy.com/"
+                }]
+        },
+        
+        "Filler Title":
+        {
+         "innerItem":
+                [{
+                    "item":"Filler Item",
+                    "link":"http://www.google.com/"
+                }]
+        },
+        
+        "YouTube":
+        {
+         "innerItem":
+                [{
+                    "item":"YouTube",
+                    "link":"http://www.youtube.com/"
+                }]
+        },
+        
+          "Cool Videos":
+        {
+         "innerItem":
+                [{
+                    "item":"Shane Koyczan - To This Day",
+                    "link":"https://www.youtube.com/watch?v=ltun92DfnPY&index=3&list=FLfpw3blEfs2Nax_Mlj-pW6w"
+                },
+                {
+                    "item":"Sagutoyas - Sacrifice",
+                    "link":"https://www.youtube.com/watch?v=xjy9Y0XD-aI&index=1&list=FLfpw3blEfs2Nax_Mlj-pW6w"
+                },
+                {
+                    "item":"Mystery Skulls Animated - Ghost",
+                    "link":"https://www.youtube.com/watch?v=YlEb3L1PIco&index=2&list=FLfpw3blEfs2Nax_Mlj-pW6w"
+                }]
+        },
+        
+         "Another Filler":
+        {
+         "innerItem":
+                [{
+                    "item":"Yay for Fillers",
+                    "link":"http://www.google.com/"
+                }]
+        }
+     
+}
